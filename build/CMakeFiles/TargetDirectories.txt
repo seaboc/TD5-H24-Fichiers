@@ -1,0 +1,4 @@
+/Users/serenasaada/Documents/SERENA/POLYTECH/Deuxième session/1015/TD5-H24-Fichiers/build/CMakeFiles/ProjetTD2.dir
+/Users/serenasaada/Documents/SERENA/POLYTECH/Deuxième session/1015/TD5-H24-Fichiers/build/CMakeFiles/ProjetTD2_couverture.dir
+/Users/serenasaada/Documents/SERENA/POLYTECH/Deuxième session/1015/TD5-H24-Fichiers/build/CMakeFiles/edit_cache.dir
+/Users/serenasaada/Documents/SERENA/POLYTECH/Deuxième session/1015/TD5-H24-Fichiers/build/CMakeFiles/rebuild_cache.dir
